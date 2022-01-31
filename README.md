@@ -7,11 +7,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VaquarShaikh&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaquarShaikh&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
-
-🧰 Toolbox
+Currently everything that I know , although upskilling constantly :)
 
 <img src="https://cdn.worldvectorlogo.com/logos/blockchain.svg" width="50" height="50" /> <img src = "https://cdn.worldvectorlogo.com/logos/c.svg" width = "50" height = "50" /> <img src = "https://cdn.worldvectorlogo.com/logos/java.svg" width = "50" height = "50" /> <img src = "https://cdn.worldvectorlogo.com/logos/python-5.svg" width = "50" height = "50" /> <img src = "https://cdn.worldvectorlogo.com/logos/html-1.svg" width = "50" height = "50" /> <img src = "https://cdn.worldvectorlogo.com/logos/css-3.svg" width = "50" height = "50" /> <img src = "https://miro.medium.com/max/579/1*lI0nR91pNegb9mwLmgNgQQ.png" width = "50" height = "50" /> <img src = "https://www.europlanet-society.org/wp-content/uploads/2020/11/Europlanet_Machine_Learning_Logo_Combined_Black.png" width = "50" height = "50" /> <img src="https://previews.123rf.com/images/essaphear/essaphear1709/essaphear170900001/86808937-data-science-logo-ic%C3%B4ne-design-vector.jpg" width="50" height="50" />
 
