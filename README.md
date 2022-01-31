@@ -13,7 +13,7 @@
 
 🧰 Toolbox
 
-<img src="https://www.pngfind.com/pngs/m/427-4274060_blockchain-com-logo-blockchain-com-logo-png-transparent.png" width="50" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/blockchain.svg" width="50" height="50" />
 
 ---
 
