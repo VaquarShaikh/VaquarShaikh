@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VaquarShaikh.
-- 👀 I’m interested in machine learning , blockchain , web development .
+- 👀 I’m interested in competitive coding , machine learning , blockchain , web development .
 - 🌱 I’m currently studying computer engineering .
 - 💞️ I’m ready to work in any domain allotted to me by my company .
 
