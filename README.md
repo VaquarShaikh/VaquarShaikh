@@ -8,7 +8,7 @@
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VaquarShaikh&show_icons=true&theme=radical) -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VaquarShaikh&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VaquarShaikh&show_icons=true&theme=radical" />
 </a>
 ---
 Currently everything that I know , although upskilling continuously :)
