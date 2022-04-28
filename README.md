@@ -3,7 +3,8 @@
 - 🌱 I’m currently studying computer engineering .
 - 💞️ I’m ready to work in any domain allotted to me by my company .
 
-<img src="https://media.giphy.com/media/4UzW8S83pWoKs/giphy.gif" width="1300" height="40" />
+<!-- <img src="https://media.giphy.com/media/4UzW8S83pWoKs/giphy.gif" width="1300" height="40" /> -->
+<img src="https://i.imgur.com/gjv5CaH.gif" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VaquarShaikh&show_icons=true&theme=radical)
 
